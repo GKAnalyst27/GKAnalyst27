@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GKAnalyst27
 - 👀 I’m interested in DATA SCIENCE & ML & AI
 - 🌱 I’m currently learning DATA ANALYTICS 
-- 💞️ I’m looking to collaborate on Data science Projects, ML GEN AI, Quantum computation
+- 💞️ I’m looking to collaborate on Data science Projects,NLP,AWS ANALYTICS ML GEN AI, Quantum computation
 - 📫 Mail me at giridhar.kulkarni174@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data is fun
